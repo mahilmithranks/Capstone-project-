@@ -1,0 +1,9 @@
+{
+  "name": "ai",
+  "version": "1.0.0",
+  "description": "AI seat allocation for offline ticket booking system",
+  "main": "seatAllocation.js",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.10.0"
+  }
+}
